@@ -1,0 +1,1 @@
+This project provides ability to use java.sql packages in your GWT application on the client-side with HTML5 SQLite Database.
